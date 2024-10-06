@@ -1,0 +1,4 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:ofcljaved/rustlings.git
+	branch = main
