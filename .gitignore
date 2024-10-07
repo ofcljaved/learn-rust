@@ -1,0 +1,7 @@
+**/target/
+**/.rustc_info.json
+.DS_Store
+**/*.rs.bk
+**/*~
+**/doc/
+**/.cargo/config.toml
